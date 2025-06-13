@@ -79,7 +79,7 @@ atividade/
 ## Instalação e Execução
 1. Clonar o repositório
 ```bash
-git clone https://github.com/GabrielFrois/atividade-8-visualizacao-de-dados-espaciais.git atividade
+git clone https://github.com/GabrielFrois/setores-censitarios.git atividade
 ```
 
 2. Configurar o banco de dados:
