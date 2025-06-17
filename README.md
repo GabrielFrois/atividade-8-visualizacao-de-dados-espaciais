@@ -5,7 +5,7 @@
 ## Objetivo
 Esta aplicação web permite visualizar os setores censitários do Censo Demográfico 2022 para municípios do Estado de São Paulo utilizando um mapa interativo com dados geográficos em formato GeoJSON.
 
-![Imagem da aplicação](exemplo.png)
+![Imagem da aplicação](/exemplo.png)
 
 
 ## Funcionalidades Implementadas
